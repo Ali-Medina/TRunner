@@ -40,8 +40,7 @@ function draw() {
   
   let item = myData[current];
 
-  // for(let i = 0; i < myData.length; i++) {
-  // let item = myData[i];
+  
   
 
   drawRings(item.distance);
